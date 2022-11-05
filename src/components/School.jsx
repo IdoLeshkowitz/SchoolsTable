@@ -1,6 +1,6 @@
 import React, { tr, startTransition, useState } from "react";
 import Cita from "./Cita";
-import styles from "./../components/School.module.css";
+import styles from "./School.module.css";
 import Rating from "./Rating";
 function School(schoolData) {
   let key = schoolData.key;

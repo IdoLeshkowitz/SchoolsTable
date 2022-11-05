@@ -1,9 +1,7 @@
 import React, { useState } from "react";
-import data from "./components/mock-data.json";
-import School from "./new/School";
-import SchoolTable from "./SchoolTable";
-import styles from "./components/SchoolsTable.module.css";
-import Schools from "./new/Schools";
+import data from "../mock-data.json";
+import styles from "./SchoolsTable.module.css";
+import Schools from "./Schools";
 
 
 

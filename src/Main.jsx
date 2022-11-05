@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useDebugValue, Fragment } from "react";
 import styles from "./Main.css";
-import SchoolsTable from "./SchoolsTable";
+import SchoolsTable from "./components/SchoolsTable";
 
 function Main() {
   const [isShowing, setIsShowing] = useState(true);
