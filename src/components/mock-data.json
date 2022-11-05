@@ -1,0 +1,54 @@
+[
+  {
+    "key": 5,
+    "schoolName": "A",
+    "classes": [
+      {
+        "key": 0,
+        "className": "A1",
+        "teacher": "Tami",
+        "rating": 2,
+        "comments": "ljs"
+      },
+      {
+        "key": 1,
+        "className": "B1",
+        "teacher": "Iris",
+        "rating": 1,
+        "comments": "asd"
+      },
+      {
+        "key": 2,
+        "className": "C1",
+        "teacher": "Iris",
+        "rating": 1,
+        "comments": ""
+      }
+    ],
+    "totalRating": 3.5,
+    "comments": "comments"
+  },
+  {
+    "key": 1,
+    "schoolName": "B",
+    "classes": [
+      {
+        "key": 0,
+        "className": "C1",
+        "teacher": "Orna",
+        "rating": 1,
+        "comments": ""
+      },
+      {
+        "key": 1,
+        "className": "D1",
+        "teacher": "Kami",
+        "rating": 1,
+        "comments": ""
+      }
+    ],
+    "totalRating": 2.5,
+    "comments": "comments2"
+  }
+
+  ]

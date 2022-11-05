@@ -1,0 +1,12 @@
+.tr{
+    border : 1px solid black ;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-around;
+}
+
+.summaryRow{
+    background-color: rgba(250, 235, 215, 0.411);
+}

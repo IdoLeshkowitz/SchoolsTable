@@ -1,0 +1,10 @@
+table {
+    height: 100%;
+    padding-bottom: 7%;
+    padding-top: 3%;
+    width: 100%
+}
+
+th{
+    border: 1px solid black ;
+}

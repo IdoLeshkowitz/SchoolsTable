@@ -1,0 +1,19 @@
+div{
+height : 100%;
+text-align: center;
+}
+ 
+button{
+  width : 100px ;
+  height: 30px ;
+  border-radius: 30px;
+  background-color: transparent;
+}
+
+.btn_container{
+  width: 300px;
+}
+
+a{
+  height : 300px;
+}
