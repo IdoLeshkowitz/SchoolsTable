@@ -26,7 +26,7 @@ function Schools(schoolsData) {
   };
 
   this.summary = function (){
-    return <tr key={String (currIndex+1)}><td colSpan={5}>Total experience :</td></tr>
+    return <tr key={String (currIndex+1)}><td colSpan={5}>Total experience :great experience</td></tr>
   }
 }
 

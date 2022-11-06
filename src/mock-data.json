@@ -8,7 +8,7 @@
         "className": "A1",
         "teacher": "Tami",
         "rating": 2,
-        "comments": "ljs"
+        "comments": "kink of nice actually"
       },
       {
         "key": 1,
@@ -22,11 +22,12 @@
         "className": "C1",
         "teacher": "Iris",
         "rating": 1,
-        "comments": ""
+        "comments": "bad and good"
       }
     ],
     "totalRating": 3.5,
-    "comments": "comments"
+    "comments": "comments",
+    "link" :"https://www.google.com/maps/place/%D7%9E%D7%9B%D7%95%D7%9C%D7%AA+%D7%97%D7%95%D7%A1%D7%99%D7%9F%E2%80%AD/@32.8013564,35.0081488,17.97z/data=!4m12!1m6!3m5!1s0x151dbaf72d5ef801:0x7982ef8c9100edbf!2z16LXldek16gg15LXqNeg15Mg16fXoNeZ15XXny3Xl9eZ16TXlA!8m2!3d32.789711!4d35.0078224!3m4!1s0x151dba5a689507e5:0x324a7bfd8f343e4d!8m2!3d32.8013355!4d35.0069126"
   },
   {
     "key": 1,
@@ -37,18 +38,19 @@
         "className": "C1",
         "teacher": "Orna",
         "rating": 1,
-        "comments": ""
+        "comments": "very very"
       },
       {
         "key": 1,
         "className": "D1",
         "teacher": "Kami",
         "rating": 1,
-        "comments": ""
+        "comments": "not so bad"
       }
     ],
     "totalRating": 2.5,
-    "comments": "comments2"
+    "comments": "not so good",
+    "link":"https://goo.gl/maps/ZqBxntwuNqJ8k3Dw8"
   }
 
   ]

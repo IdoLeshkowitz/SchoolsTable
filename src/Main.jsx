@@ -10,10 +10,14 @@ function Main() {
   // }, [isShowing]);
 
   return (
-    <div className={styles.cont}>
-      <button onClick={() => setIsShowing(!isShowing)} >{isShowing ? 'Hide Table' : 'Show Table'}</button>
+    <Fragment>
+      <div className={styles.btn_container}>
+        <button onClick={() => setIsShowing(!isShowing)}>
+          {isShowing ? "Hide Table" : "Show Table"}
+        </button>
+      </div>
       {isShowing ? <SchoolsTable /> : <div>Welcome To My Schools Table !</div>}
-    </div>
+    </Fragment>
   );
 }
 
