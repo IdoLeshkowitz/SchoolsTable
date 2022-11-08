@@ -1,3 +1,5 @@
+Hi, please notice that the data is fetched from mock-data.json. To demonstrate a server that provides array of school objects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
